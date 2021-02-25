@@ -1,4 +1,4 @@
-# VSCode Python
+# Debugging Maya Python Remotely in VSCode
 
 _Goal: Test basic remote Python debugging setup in VSCode_
 
@@ -52,6 +52,10 @@ Follow the prompts, filling in _3000_ for the port and a few others. The finishe
 	}
 }
 ```
+
+**Invoke Maya**
+
+Put this module somewhere on the PYTHONPATH or _sys.path.append_ it. Run Maya.
 
 **Run code to enable attach in Maya**
 
