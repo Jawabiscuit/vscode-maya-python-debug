@@ -71,3 +71,5 @@ In vscode, click _Attach (Remote Debug)_, and add breakpoints
 **Start debugging!**
 
 Run code in Maya to trigger breakpoint and code inspection in vscode!
+
+![](screenshot-2021-02-24-220104.png)
